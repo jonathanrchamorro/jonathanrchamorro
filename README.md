@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos mi nombre es Jonathan Restan actualmente estudiante del programa platzi master, apasinado por el aprendizaje autodidacta 👋
 
 <!--
 **jonathanrchamorro/jonathanrchamorro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
